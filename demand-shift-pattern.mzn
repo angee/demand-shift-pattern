@@ -15,7 +15,7 @@ include "model/demand-shift-pattern-core.mzn";
 
 % ---------------- objective ------------------- %
 
-solve minimize obj ;
+solve minimize obj;
 
 % ---------------- output ---------------------- %
 
